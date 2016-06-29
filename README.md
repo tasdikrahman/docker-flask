@@ -1,6 +1,6 @@
 ## docker-flask
 
-Simple example of integrating [docker](https://gocker.com/) with web apps, [flask](https://flask.pocoo.org/) in this case
+Simple example of integrating [docker](https://www.docker.com/) with web apps, [flask](http://flask.pocoo.org/) in this case
 
 ## Running it
 
@@ -59,3 +59,20 @@ $ docker run -p 8888:5000 flask_docker
 ## License
 
 GPLv3
+
+    docker-flask
+    Copyright (C) 2016 Tasdik Rahman
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
